@@ -37,3 +37,22 @@ input_number = 12436
 output_currency_notation = indian_currency_format(input_number)
 print(f"Input: {input_number}")
 print(f"Output: {output_currency_notation}")
+
+
+
+
+### Algo Steps::::
+
+# 1 Take Currency as a Input 
+# 2 : Check Input Type and input lenght 
+    # if type(userInput)== int
+    # if userinput<0:
+# 3 : will convert userinput in to string
+# 4 : I will reverse hole input
+# 5 : for the currency notations main logics like 
+      # if count == 3 and digit != number_str[0]:     
+    # i will add format with ',' after above condiction
+
+
+
+
